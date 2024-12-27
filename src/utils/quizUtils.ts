@@ -9,7 +9,7 @@ const quizQuestions: QuizQuestion[] = [
 	{
 		targetWord: "Kjempestore",
 		correctSynonym: "Enorme",
-		paragraph: "Den enorme elefanten raget over de andre dyrene i dyrehagen. Barn pekte og stirret i forbauselse over dyrets størrelse. Elefanten beveget seg sakte, men med en majestetisk holdning. Den brukte snabelen til å samle vann fra dammen. Besøkende samlet seg for å ta bilder av den imponerende skapningen. Alle snakket om elefantens kraft og eleganse.",
+		paragraph: "Elefanten raget over de andre dyrene i dyrehagen. Barn pekte og stirret i forbauselse over dyrets størrelse. Elefanten beveget seg sakte, men med en majestetisk holdning. Den brukte snabelen til å samle vann fra dammen. Besøkende samlet seg for å ta bilder av den imponerende skapningen. Alle snakket om elefantens kraft og eleganse.",
 	},
 	{
 		targetWord: "Fredfulle",
@@ -33,7 +33,7 @@ const quizQuestions: QuizQuestion[] = [
 	},
 	{
 		targetWord: "Hastighet",
-		correctSynonym: "Fart",
+		correctSynonym: "Fart.",
 		paragraph: "Den kjappe geparden jaget byttet sitt med imponerende fart. Den navigerte gjennom buskene med presisjon. Byttet prøvde å rømme, men geparden var uovertruffen i hastighet. Besøkende i safariparken stirret i forbauselse over gepardens ferdigheter. Etter jakten hvilte den under et tre. Guiden forklarte gepardens evner for de fascinerte tilskuerne.",
 	},
 	{
@@ -48,7 +48,7 @@ const quizQuestions: QuizQuestion[] = [
 	},
 	{
 		targetWord: "Ro",
-		correctSynonym: "Fred",
+		correctSynonym: "Fred.",
 		paragraph: "Det skremte barnet klamret seg til moren under det kraftige tordenværet. Lynet lyste opp himmelen, og torden brølte høyt. Barnet gjemte ansiktet i morens skuldre. Moren hvisket beroligende ord for å roe henne ned. Etter en stund stilnet stormen, og barnet begynte å føle seg tryggere. Lyden av regn som falt rolig på taket brakte fred.",
 	},
 	{
@@ -58,7 +58,7 @@ const quizQuestions: QuizQuestion[] = [
 	},
 	{
 		targetWord: "Arbeid",
-		correctSynonym: "innsats",
+		correctSynonym: "innsats.",
 		paragraph: "Den tapre brannmannen løp inn i den brennende bygningen for å redde familien som var fanget. Flammene raste, men han forble rolig og fokusert. Han fant familien og ledet dem trygt ut. Folk som sto utenfor, jublet og takket ham for hans heroiske innsats. Han sa at det bare var en del av jobben hans. Hans mot og dedikasjon inspirerte mange.",
 	},
 ];
